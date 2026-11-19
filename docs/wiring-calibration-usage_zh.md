@@ -15,7 +15,7 @@
 | 电源降压模块 | 1 | 
 
 配件实物图如下所示：
-![配件实物图](images/Photo%20of%20the%20Accessories.PNG)
+![配件实物图](images/Photo%20of%20the%20Accessories%20zh.png)
 
 
 ## 2. 接线说明
