@@ -30,8 +30,7 @@
 
 ## 硬件连接与使用指南
 
-- [中文 — 四足机器人接线、舵机校准与使用指南](docs/wiring-calibration-usage_zh.md)
-- [English — Wiring, Calibration and Usage Guide](docs/wiring-calibration-usage.md)
+- [四足机器人接线、舵机校准与使用指南](docs/wiring-calibration-usage_zh.md)
 
 ## 编译环境
 
@@ -108,3 +107,6 @@ demo-quadruped-robot/
 
 ## 效果演示
 [点击查看四足机器人演示视频](docs/images/quadruped-robot.mp4)
+
+## 问题反馈
+如在使用过程中遇到问题，欢迎在[移远官方论坛](https://forumschinese.quectel.com/c/quectel-pi/58)提交技术咨询，我们的技术支持团队将及时为您解答。欢迎提交Issue和Pull Request来改进此项目。
