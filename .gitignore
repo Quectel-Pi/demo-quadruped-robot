@@ -1,0 +1,13 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+/quadruped_robot
+/quadruped_web
+
+
+# Temporary/editor files
+*.tmp
+*.swp
+*~
+.DS_Store
