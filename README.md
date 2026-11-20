@@ -30,8 +30,7 @@ A desktop quadruped robot example based on the **Quectel Pi M2**. The project is
 
 ## Wiring and Usage Guides
 
-- [English — Wiring, Calibration and Usage Guide](docs/wiring-calibration-usage.md)
-- [中文 — 四足机器人接线、舵机校准与使用指南](docs/wiring-calibration-usage_zh.md)
+- [Wiring, Calibration and Usage Guide](docs/wiring-calibration-usage.md)
 
 ## Build Environment
 
@@ -106,5 +105,8 @@ demo-quadruped-robot/
 └── README_zh.md                   # Chinese project documentation
 ```
 
-## Demo
-[Watch the quadruped robot demo video](docs/images/quadruped-robot.mp4)
+## Demonstration
+[Watch the quadruped robot demonstration video](docs/images/quadruped-robot.mp4)
+
+## Issue Reporting
+If you encounter any issues while using this project, please visit the [Quectel Official Forum](https://forumschinese.quectel.com/c/quectel-pi/58) for technical support. Our technical support team will be happy to assist you. We also welcome Issues and Pull Requests to help improve this project.
