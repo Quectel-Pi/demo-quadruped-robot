@@ -6,7 +6,7 @@ A desktop quadruped robot example based on the **Quectel Pi M2**. The project is
 
 ## Quadruped Robot
 
-![Quadruped robot](docs/images/quadruped-robot.PNG)
+![Quadruped robot](docs/images/quadruped-robot-en.png)
 
 ## Features
 
