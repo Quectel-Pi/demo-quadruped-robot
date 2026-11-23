@@ -6,7 +6,7 @@
 
 ## 四足机器人整机实物图
 
-![四足机器人整机实物图](docs/images/quadruped-robot.PNG)
+![四足机器人整机实物图](docs/images/quadruped-robot-zh.png)
 
 ## 功能特性
 
